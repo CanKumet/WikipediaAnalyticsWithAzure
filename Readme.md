@@ -288,11 +288,6 @@ wikipedia-analytics/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -304,6 +299,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**⭐ Star this repo if you found it helpful!**
+## Geliştirici ##
+**Fahri Can KÜMET [@cankumet](https://github.com/cankumet)**
 
 </div>
