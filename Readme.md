@@ -161,9 +161,16 @@ flowchart TD
     G --> I
     H --> I
     
-    style A fill:#ff6b6b
-    style I fill:#4ecdc4
-    style X fill:#ddd
+style A fill:#c0392b,stroke:#fff,color:#fff
+    style B fill:#8e44ad,stroke:#fff,color:#fff
+    style C fill:#2980b9,stroke:#fff,color:#fff
+    style D fill:#27ae60,stroke:#fff,color:#fff
+    style E fill:#f39c12,stroke:#fff,color:#fff
+    style F fill:#2c3e50,stroke:#fff,color:#fff
+    style G fill:#7f8c8d,stroke:#fff,color:#fff
+    style H fill:#16a085,stroke:#fff,color:#fff
+    style I fill:#4ecdc4,stroke:#fff,color:#fff
+    style X fill:#95a5a6,stroke:#fff,color:#fff
 ```
 
 ---
