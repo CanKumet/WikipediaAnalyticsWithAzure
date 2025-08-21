@@ -21,11 +21,11 @@ graph LR
     C --> D[⚡ Stream Analytics]
     D --> E[📦 Blob Storage]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#ffeaa7
+    style A fill:#c0392b,stroke:#fff,color:#fff
+    style B fill:#16a085,stroke:#fff,color:#fff
+    style C fill:#2980b9,stroke:#fff,color:#fff
+    style D fill:#27ae60,stroke:#fff,color:#fff
+    style E fill:#d35400,stroke:#fff,color:#fff
 ```
 
 ## 🚀 Technologies Used
