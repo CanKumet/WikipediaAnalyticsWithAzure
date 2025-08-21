@@ -84,8 +84,7 @@ az eventhubs eventhub create \
   --name wikiEvents \
   --namespace-name wikinamespace \
   --resource-group wikiAnalyticsRG \
-  --partition-count 2 \
-  --message-retention 1
+  --partition-count 2
 
 # Create Storage Account
 az storage account create \
